@@ -1,6 +1,6 @@
 <!--
-theme name:		Switch
-version:		BETA 0.1
+theme name:		Switch-Dark
+version:		1.0
 author:			Lilbud
 email:			bvw20002010@gmail.com
 license:		creative commons CC-BY-NC-SA
@@ -85,7 +85,7 @@ based on:       Switch Theme for Launchbox by Grila
 			<selectedColor>178ad2</selectedColor>
 			<primaryColor>fefefe</primaryColor>
 			<secondaryColor>fefefe</secondaryColor>
-			<selectorColor>178ad2</selectorColor>
+			<selectorColor>178ad200</selectorColor>
 			<fontPath>./assets/Oxygen-Regular.ttf</fontPath>
 			<fontSize>0.028</fontSize>
 			<pos>0.04 0.182</pos>
@@ -168,7 +168,7 @@ based on:       Switch Theme for Launchbox by Grila
 			<selectedColor>178ad2</selectedColor>
 			<primaryColor>fefefe</primaryColor>
 			<secondaryColor>fefefe</secondaryColor>
-			<selectorColor>178ad2</selectorColor>
+			<selectorColor>178ad200</selectorColor>
 			<fontPath>./assets/Oxygen-Regular.ttf</fontPath>
 			<fontSize>0.028</fontSize>
 			<pos>0.04 0.182</pos>
