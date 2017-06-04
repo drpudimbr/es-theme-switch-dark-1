@@ -24,13 +24,13 @@
 	<view name="basic, detailed, video">	
 		
 		<text name="system_name_1" extra="true">
-			<text>Nintendo Game Boy</text>
+			<text>Nintendo 64</text>
 			<forceUppercase>0</forceUppercase>
 			<size>0.743 0.015</size>
 			<pos>0.034 0.081</pos>
 			<color>fefefe</color>
 			<fontPath>./../assets/Oxygen-Regular.ttf</fontPath>
-			<fontSize>0.04</fontSize>
+			<fontSize>0.03</fontSize>
 			<alignment>left</alignment>
 		</text>
 	
