@@ -24,7 +24,7 @@
 	<view name="basic, detailed, video">	
 		
 		<text name="system_name_1" extra="true">
-			<text>Nintendo Wii/text>
+			<text>Nintendo Wii</text>
 			<forceUppercase>0</forceUppercase>
 			<size>0.743 0.031</size>
 			<pos>0.034 0.065</pos>
