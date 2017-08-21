@@ -186,9 +186,9 @@ based on:       Switch Theme for Launchbox by Grila
 			<pos>1 1</pos>
 		</text>
 <!-------------LAST PLAYED--------------->		
-		<datetime name="md_lbl_lastplayed">
+		<text name="md_lbl_lastplayed">
 			<pos>1 1</pos>
-		</datetime>
+		</text>
 		
 		<datetime name="md_lastplayed">
 			<pos>1 1</pos>
